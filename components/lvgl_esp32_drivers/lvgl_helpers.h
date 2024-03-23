@@ -22,8 +22,8 @@ extern "C" {
 /*********************
  *      DEFINES
  *********************/
-#define LV_HOR_RES_MAX 160
-#define LV_VER_RES_MAX 128
+#define LV_HOR_RES_MAX 80
+#define LV_VER_RES_MAX 160
 #define SPI_HOST_MAX 2
 /* DISP_BUF_SIZE value doesn't have an special meaning, but it's the size
  * of the buffer(s) passed to LVGL as display buffers. The default values used
